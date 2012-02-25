@@ -56,4 +56,9 @@
 	    font-weight: normal;
 	    font-style: normal; }
 */
-body { margin-top: 60px; text-align:center }
+body { margin-top: 30px; text-align: center  }
+#wrap {
+	width:600px;
+	margin:0px auto;
+	text-align:left;
+}
